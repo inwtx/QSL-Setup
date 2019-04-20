@@ -23,7 +23,8 @@ IV. Click 'Create desktop shortcut' and enter anonymous@anonymous.com in the
   <img src="/images/QSLemail.png" width="570" height="395">
 </p>
   
-V. In the 'Email Address and SMTP Host' window under 'SMTP Server', enter the free host 'snorky.mixmin.net'. Enter 2525 for 'Port' and  selectTLS in the dropdown box.  
+V. In the 'Email Address and SMTP Host' window under 'SMTP Server', enter the free  
+&nbsp;&nbsp;&nbsp;&nbsp;host 'snorky.mixmin.net'. Enter 2525 for 'Port' and  selectTLS in the dropdown box.  
   
   <p align="left">
   <img src="/images/QSLsmtpserver.png" width="570" height="395">
@@ -31,9 +32,8 @@ V. In the 'Email Address and SMTP Host' window under 'SMTP Server', enter the fr
   
 VI. Skip the next SMTP Proxy and HTTP Proxy windows and click out the Finish window.
   
-VII. The main QSL window will now appear and will contain default message headers.  To prevent any sent  
-messages from being stored on your computer, delete the top 'Fcc: outbox' line.  Then save the default
-message headers by clicking the menu 'File'/'Save as New Message'.
+VII. The main QSL window will now appear and will contain default message headers.  
+To prevent any sent messages from being stored on your computer, delete the top 'Fcc: outbox' line.  Then save the default message headers by clicking the menu 'File'/'Save as New Message'.
   
   <p align="left">
   <img src="/images/QSLtoemail.png" width="727" height="252">
