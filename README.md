@@ -23,9 +23,7 @@ IV. Click 'Create desktop shortcut' and enter anonymous@anonymous.com in the
   <img src="/images/QSLemail.png" width="570" height="395">
 </p>
   
-V. In the 'Email Address and SMTP Host' window under 'SMTP Server', enter the  
-&nbsp;&nbsp;&nbsp;&nbsp;free host 'snorky.mixmin.net'. Enter 2525 for 'Port' and select  
-TLS in the dropdown box.  
+V. In the 'Email Address and SMTP Host' window under 'SMTP Server', enter the free host 'snorky.mixmin.net'. Enter 2525 for 'Port' and  selectTLS in the dropdown box.  
   
   <p align="left">
   <img src="/images/QSLsmtpserver.png" width="570" height="395">
