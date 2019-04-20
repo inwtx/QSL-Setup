@@ -4,7 +4,7 @@ This is a tutorial on how to install and setup QSL, a remailer client.  The clie
 I. Download QSL here.  The download is on this line: The file you want is: QSLite-1.?.?.exe
 
 II. Click on the QSLite-1.?.?.exe and it will ask where you want it to be unzipped.  This will  
-&nbsp;&nbsp;&nbsp;&nbsp;be the folder where QSL then resides.  The program will then continue with the Setup.
+&nbsp;&nbsp;&nbsp;&nbsp;be the folder where QSL then resides. The program will then continue with the Setup.
   
 <p align="left">
   <img src="/images/QSLintro.png" width="570" height="395">
@@ -24,8 +24,8 @@ IV. Click 'Create desktop shortcut' and enter anonymous@anonymous.com in the
 </p>
   
 V. In the 'Email Address and SMTP Host' window under 'SMTP Server', enter the  
-&nbsp;&nbsp;&nbsp;free host 'snorky.mixmin.net'. Enter 2525 for 'Port', and  
-&nbsp;&nbsp;&nbsp;select TLS in the dropdown box.  
+&nbsp;&nbsp;&nbsp;&nbsp;free host 'snorky.mixmin.net'. Enter 2525 for 'Port' and select  
+TLS in the dropdown box.  
   
   <p align="left">
   <img src="/images/QSLsmtpserver.png" width="570" height="395">
