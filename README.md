@@ -6,4 +6,8 @@ I. Download QSL here.  The download is on this line: The file you want is: QSLit
 II. Click on the QSLite-1.?.?.exe and it will ask where you want it to be unzipped.  This will be the folder where QSL then resides.
 The program will then continue with the setup.
 
+<p align="left">
+  <img src="/image/repository-open-graph-template.png" width="533" height="85">
+</p>
+
 III. 
