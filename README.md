@@ -7,7 +7,7 @@ II. Click on the QSLite-1.?.?.exe and it will ask where you want it to be unzipp
 The program will then continue with the setup.
 
 <p align="left">
-  <img src="/image/QSLintro.png" width="533" height="85">
+  <img src="/images/QSLintro.png" width="570" height="395">
 </p>
 
 III. 
