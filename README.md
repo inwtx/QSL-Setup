@@ -44,3 +44,16 @@ To prevent any sent messages from being stored on your computer, delete the top
 VIII. Message formating: There must be a space between a header : and a parameter.  There  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;must be a blank line between the Subject: line and the message that goes below it.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There must be 2 tildes ~~ after the end of the message.  
+
+IX. Next the parameters to use for sending post to news groups is setup and saved as a templete.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clear the QSL window and type in the headers below without the red text and note at the end.  
+  
+  <p align="left">
+  <img src="/images/QSLnews.png" width="764" height="288">
+</p>
+  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then click on menu 'File'/'Save as Templete...', name it 'News' in the box, and click OK.  Now  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when you want to send to a new group, you can click on the Templates button on the QSL  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interface and select News, which will bring in those headers.  You can do the reverse and put  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the regular email parameters in Templates and save News to 'File'/'Save as New Message'.  
