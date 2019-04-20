@@ -41,3 +41,6 @@ To prevent any sent messages from being stored on your computer, delete the top
   <img src="/images/QSLtoemail.png" width="727" height="252">
 </p>
   
+VIII. Message formating: There must be a space between a header : and a parameter.  There  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;must be a blank line between the Subject: line and the message that goes below it.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There must be 2 tildes ~~ after the end of the message.  
