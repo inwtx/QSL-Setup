@@ -55,6 +55,6 @@ To prevent any sent messages from being stored on your computer, delete the top
   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then click on menu 'File'/'Save as Templete...', name it 'News' in the box, and click OK.  Now  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when you want to send to a new group, you can click on the Templates button on the QSL  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when you want to send to a news group, you can click on the Templates button on the QSL  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interface and select News, which will load in those headers.  You can do the reverse and put  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the regular email parameters in Templates and save News to 'File'/'Save as New Message'.  
